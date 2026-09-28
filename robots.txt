@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://autohuispremium.nl/sitemap.xml
