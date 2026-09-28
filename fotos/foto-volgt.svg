@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#141518"/>
+<g fill="none" stroke="#2E3138" stroke-width="1.5">
+<path d="M150 235h340M170 235c0-14 11-25 25-25s25 11 25 25M420 235c0-14 11-25 25-25s25 11 25 25"/>
+<path d="M150 235v-28c0-8 6-15 14-16l38-5 30-30c5-5 12-8 19-8h97c7 0 14 3 19 8l30 30 38 5c8 1 14 8 14 16v28"/>
+</g>
+<text x="320" y="300" font-family="monospace" font-size="11" letter-spacing="5" fill="#5C6169" text-anchor="middle">FOTO VOLGT</text>
+</svg>
